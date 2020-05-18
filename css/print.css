@@ -1,0 +1,25 @@
+﻿body 
+{
+	font-family:Tahoma;
+	font-size:10px;
+	color:Black !important;
+	margin:0px;
+	padding:0px;
+	background-color:#e0edff;
+}
+
+.page_print{width:100%;}
+
+.Headertable
+{
+background:#fff;
+}
+
+.hiddencol,
+.hid{display:none;}
+.hidden{display:none;}
+.bill-desk{display:inline;}
+.page_command{display:none;}
+.Datatable tr td{white-space:nowrap;}
+table {border-color:#000}
+hr { border-top:solid 1px #000}
